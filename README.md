@@ -7,5 +7,14 @@ This project is a tours ordering system that allows users to log in, register, a
 To clone and run the project locally, follow these steps:
 
 ```bash
-# Open two terminal windows.
+# first clone the project.
 
+# Open two terminal windows.
+# In the first terminal, navigate to the backend directory:
+cd backend
+
+# Install backend dependencies:
+npm install
+
+# Start the backend server:
+npm run start-dev
