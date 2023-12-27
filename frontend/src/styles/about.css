@@ -1,0 +1,30 @@
+div {
+  text-align: center;
+}
+
+.about-page-container {
+  padding-left: 9rem;
+  padding-right: 9rem;
+
+  padding-bottom: 5rem;
+}
+
+.subtitle {
+  font-size: 3rem;
+}
+
+.subtitle_secondery {
+  font-size: 2rem;
+}
+
+.values-container {
+  display: flex;
+  gap: 20px; /* Adjust the gap as needed */
+}
+
+.value-box {
+  flex: 1;
+  border: 1px solid #ddd; /* Add border or styling as needed */
+  padding: 20px;
+  text-align: center; /* Adjust alignment as needed */
+}
